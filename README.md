@@ -1,19 +1,19 @@
 # 👋 Hello, I'm Hasan!
 
-Welcome to my GitHub! I'm a tech enthusiast from Bangladesh who loves tinkering with gadgets and pushing them to their limits. From custom ROMs to hardware hacks, I’m all about exploring the possibilities of tech.
+Welcome to my GitHub! I'm a tech enthusiast from Bangladesh who loves tinkering with gadgets and pushing them to their limits. From android custom ROMs to hardware hacks, I’m all about exploring the possibilities of tech.
 
 ---
 
 ## 🛠️ My Skills and Interests  
 ### Programming  
-- **Languages:** C (learning), Arduino IDE  
+- **Languages:** C (learning), Arduino IDE, Kotlin (learning), Android Studio, Python (learning)  
 - **Microcontrollers:** ESP8266 (NodeMCU)  
 
 ### Projects  
 - Custom ROM enthusiast (currently using Project Elixir 4.2 based on Android 14)  
 - First GitHub project: **NodeMCU ESP8266 Internet Clock**  
   - **Version 1:** Displays date and time using NTP client.  
-  - **Version 2:** Adds a cute 40x40 cat image to the OLED display.  
+  - **Version 2:** Adds a cute 40x40 cat image to the OLED display, on top of version 1.  
 
 ### Hardware Hacking  
 - Building a **custom power bank** with acrylic casing (designing for CNC cutting).  
