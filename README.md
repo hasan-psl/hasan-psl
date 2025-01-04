@@ -11,9 +11,8 @@ Welcome to my GitHub! I'm a tech enthusiast from Bangladesh who loves tinkering 
 
 ### Projects  
 - Custom ROM enthusiast (currently using Project Elixir 4.2 based on Android 14)  
-- First GitHub project: **NodeMCU ESP8266 Internet Clock**  
-  - **Version 1:** Displays date and time using NTP client.  
-  - **Version 2:** Adds a cute 40x40 cat image to the OLED display, on top of version 1.  
+- First GitHub project: **NodeMCU ESP8266**  
+  - **Example:** Contains my experimental demo codes for `NodeMCU ESP8266MOD-12F` dev board, to explore it's various functionalities. 
 
 ### Hardware Hacking  
 - Building a **custom power bank** with acrylic casing (designing for CNC cutting).  
